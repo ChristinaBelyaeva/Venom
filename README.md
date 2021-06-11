@@ -5,3 +5,5 @@
 - HTML
 - CSS
 - Normalise
+- JavaScript
+- Fancybox
