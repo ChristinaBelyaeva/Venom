@@ -103,7 +103,7 @@ img {
 }
 
 .blood {
-  background: url(../img/blood.png) no-repeat top right 70%,
+  background: url(../img/blood.png) no-repeat top right 20%,
     #14131a url(../img/background.jpg) no-repeat center center / 100%;
 }
 
